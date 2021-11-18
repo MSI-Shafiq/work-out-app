@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076772130956",
+    "project_id": "dsv-fitness",
+    "storage_bucket": "dsv-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076772130956:android:e199bd99e159b3023eaba9",
+        "android_client_info": {
+          "package_name": "com.application.dsvfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076772130956-2ttk9tppj8p7jud0sng0a8056g3hh5kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9MUBkJUVgxkvAKIE5sqVOoX-YKZ6gqnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076772130956-2ttk9tppj8p7jud0sng0a8056g3hh5kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

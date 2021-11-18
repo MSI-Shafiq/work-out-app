@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DSV Fitness</string>
+    <string name="img_desc">Img Desc</string>
+    <string name="get_started">Empezar</string>
+    <string name="or">O</string>
+    <string name="login">Acceso</string>
+    <string name="level">Nivel</string>
+    <string name="signup">Inscribirse</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="exercises">Ejercicios</string>
+    <string name="height_edit_text_hint">170 cm</string>
+    <string name="weight_edit_text_hint">70 kg</string>
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+    <string name="please_choose_level">Por favor elija su nivel</string>
+    <string name="done">Hecho</string>
+    <string name="your_bmi_result_is">Su resultado de IMC es:</string>
+    <string name="total_amount">El importe total es  €5.99</string>
+    <string name="credit_card_number">Número de Tarjeta de Crédito</string>
+    <string name="credit_card_date">Fecha de la tarjeta de crédito</string>
+    <string name="cvv">CVV</string>
+
+    // BMI states
+    <string name="severe_thinness">Delgadez severa</string>
+    <string name="moderate_thinness">Delgadez moderada</string>
+    <string name="mild_thinness">Leve delgadez</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Exceso de peso</string>
+    <string name="obese_class_i">Obesidad Clase I</string>
+    <string name="obese_class_ii">Obeso clase II</string>
+    <string name="obese_class_iii">Obeso clase III</string>
+</resources>
